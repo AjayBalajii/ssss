@@ -1,0 +1,44 @@
+
+
+body{
+   
+    border-top: 80px solid rgb(207, 219, 219); 
+   
+    border-left: 80px solid rgb(207, 219, 219); 
+    padding-top: 80px;
+    padding-left: 80px;
+    position: absolute; 
+  
+    }
+    
+#container{
+     
+    width:1000px;
+       
+}
+#container #left{
+    width: 200px;
+    float: left;
+}
+#container #right{
+    width: 700px;
+    float: right;
+}
+.button {
+    background-color: rgb(124, 101, 146);
+    border: none;
+    color: white;
+    
+    height: 30px;
+    width: 85px;
+    text-align: center;
+    padding-bottom: 0px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+     margin-top: 5px ;
+  }
+  
+  
+  .button4 {border-radius: 3px;}
+  
